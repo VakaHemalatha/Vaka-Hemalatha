@@ -1,0 +1,5 @@
+p,q=12,4
+p+=3
+print(p)
+q**=2
+print(p)
